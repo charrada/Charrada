@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Charrada</h1>
 <h3 align="center">As a web developer, I specialize in creating responsive and user-friendly web applications using various frontend and backend technologies. I am passionate about staying up-to-date with the latest trends and technologies to deliver high-quality solutions that meet business objectives. I collaborate effectively with other team members to ensure project success.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
