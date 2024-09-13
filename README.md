@@ -2,9 +2,9 @@
 <h3 align="center">Since my childhood, I have been a passionate dreamer fascinated by art in all its forms. I consider programming to be a form of art, and I aspire to become one of the greatest artists in this field.</h3>
 
 
+<br>
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
