@@ -1,4 +1,4 @@
-<h1 align="center">⚡Charrada Mohamed Aziz⚡</h1>
+<h1 align="center">⚡CHARRADA Med Aziz⚡</h1>
 <h3 align="center">Since my childhood, I have been a passionate dreamer fascinated by art in all its forms. I consider programming to be a form of art, and I aspire to become one of the greatest artists in this field.</h3>
 
 
